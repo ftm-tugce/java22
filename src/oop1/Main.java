@@ -15,6 +15,7 @@ public class Main {
 
 		
 				// get (değer okuma)
+		//test
 		// System.out.println(product1.name);
 		
 		Product product2 = new Product();
