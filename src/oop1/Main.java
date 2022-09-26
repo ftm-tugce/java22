@@ -13,6 +13,7 @@ public class Main {
 		product1.unitsInStock = 3;
 		product1.imageUrl = "bilmemne1.jpg";
 
+		
 				// get (değer okuma)
 		// System.out.println(product1.name);
 		
